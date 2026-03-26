@@ -1,0 +1,124 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribuição / build
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+
+# Virtual Environment
+
+# =========================
+
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# =========================
+
+# Logs e arquivos temporários
+
+# =========================
+
+*.log
+*.tmp
+*.temp
+
+# =========================
+
+# Arquivos de ambiente (sensíveis)
+
+# =========================
+
+.env
+.env.*
+*.env
+
+# =========================
+
+# Cache / Testes
+
+# =========================
+
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# IDEs / Editores
+
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+
+# Sistema operacional
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Banco de dados local
+
+# =========================
+
+*.sqlite3
+db.sqlite3
+
+# =========================
+
+# Arquivos de configuração locais
+
+# =========================
+
+*.local
+config.yaml
+config.yml
+
+# =========================
+
+# Docker
+
+# =========================
+
+*.pid
+*.seed
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.bak
+*.old
